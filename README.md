@@ -1,46 +1,52 @@
 # Библиотека TypeScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This [TypeScript от А до Я — часть 1](https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK&index=1).
+This [TypeScript от А до Я — часть 2](https://www.youtube.com/watch?v=8N9iM2z3BHA).
+This [Изучаем TSconfig, TypeScript Config. Часть 1.](https://www.youtube.com/watch?v=9mDi057vEKE).
+This [ПОЛНОЦЕННЫЙ ГАЙД по tsconfig | TypeScript](https://www.youtube.com/watch?v=27BfaFgME2o).
+This [Самые частые ошибки в TypeScript](https://www.youtube.com/watch?v=e1xRSWSOWCI).
+This [Зачем нужен TypeScript - простые примеры использования](https://www.youtube.com/watch?v=G7fNaZwIoiM&list=PLiZoB8JBsdzlG1oAY8U4vrBtVW07j6jil).
+This [Что нового в TypeScript 5.0?](https://www.youtube.com/watch?v=Bqkjv4on5Ts).
+This [Новый TypeScript 5.2 - оператор using](https://www.youtube.com/watch?v=ilyvNVUooLc).
+This [Дженерики в TypeScript с нуля](https://www.youtube.com/watch?v=L1ONtRnIxcY).
+This [Новые декораторы в TypeScript 5.0!](https://www.youtube.com/watch?v=-ZFprXU3-RA).
+This [TypeScript 4.9 - satisfies, улучшение in и NaN](https://www.youtube.com/watch?v=_2dHNunUPII).
+This [Комментарии со сверхспособностями для TypeScript и JavaScript](https://www.youtube.com/watch?v=5lfrdhxBgHU).
+Пройден [webDev - TypeScript ](https://www.youtube.com/watch?v=MtO76yEYbxA&list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa).
+This [webDev - TypeScript + React ](https://www.youtube.com/watch?v=acO37eSCowc&list=PLNkWIWHIRwMFQBDhZ6HfwO9NL09X3N3Gq).
+This [React TypeScript Tutorial](https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK&index=1).
+This [TypeScript: Раскладываем tsconfig по полочкам. Часть 1](https://habr.com/ru/articles/542234/).
 
 ## Available Scripts
 
-In the project directory, you can run:
+#1 Установка TypeScript - tsconfig
 
-### `npm start`
+#1 Базовые типы (Basic Types. Part I)
+#2 Базовые типы (Basic Types. Part II)
+#3 Перечисления (Enums)
+#4 Функции (Functions)
+#5 Объекты (Objects)
+#6 Классы (Classes)
+#7 Наследование (Inheritance)
+#8 Пространства имён и модули (Namespaces & Modules)
+#9 Интерфейсы (Type Interface)
+#10 Общие типы (Generic)
+#11 Декораторы (Decorators)
+#12 Утилиты (Utility Types)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#2 Типизация функциональных компонентов (Typing of Functional Components)
+#3 Типизация классовых компоненты (Typing of Class Components)
+#4 Типизация событий (Typing of Events)
+#5 Типизация элементов (Typing of Elements)
+#6 Типизация контекста и портала (Typing of Context & Portal)
+#7 Типизация Хуков (Typing of Hooks)
+#8 Типизация ХОК-ов (Typing of HOCs)
+#9 Типизация Роутера (Typing of React Router)
+#10 Типизация асинхронных функций (Typing of Fetch with Async & Await)
+#11 Типизация Редакса (Typing of Redux. Part I)
+#12 Типизация Редакса (Typing of Redux. Part II)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Redux & TypeScript
+Webpack & TypeScript
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Фишки
