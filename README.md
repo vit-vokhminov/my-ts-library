@@ -1,6 +1,6 @@
 # Библиотека TypeScript
 
-This [TypeScript от А до Я — часть 1](https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK&index=1).
+Пройден [TypeScript от А до Я — часть 1](https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK&index=1).
 This [TypeScript от А до Я — часть 2](https://www.youtube.com/watch?v=8N9iM2z3BHA).
 This [Изучаем TSconfig, TypeScript Config. Часть 1.](https://www.youtube.com/watch?v=9mDi057vEKE).
 This [ПОЛНОЦЕННЫЙ ГАЙД по tsconfig | TypeScript](https://www.youtube.com/watch?v=27BfaFgME2o).
@@ -13,7 +13,7 @@ This [Новые декораторы в TypeScript 5.0!](https://www.youtube.co
 This [TypeScript 4.9 - satisfies, улучшение in и NaN](https://www.youtube.com/watch?v=_2dHNunUPII).
 This [Комментарии со сверхспособностями для TypeScript и JavaScript](https://www.youtube.com/watch?v=5lfrdhxBgHU).
 Пройден [webDev - TypeScript ](https://www.youtube.com/watch?v=MtO76yEYbxA&list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa).
-This [webDev - TypeScript + React ](https://www.youtube.com/watch?v=acO37eSCowc&list=PLNkWIWHIRwMFQBDhZ6HfwO9NL09X3N3Gq).
+Пройден [webDev - TypeScript + React ](https://www.youtube.com/watch?v=acO37eSCowc&list=PLNkWIWHIRwMFQBDhZ6HfwO9NL09X3N3Gq).
 This [React TypeScript Tutorial](https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK&index=1).
 This [TypeScript: Раскладываем tsconfig по полочкам. Часть 1](https://habr.com/ru/articles/542234/).
 

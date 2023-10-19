@@ -2,24 +2,24 @@
 // позволяет создавать компоненты с общими типами
 
 // как это типизировать?
-const getter0 = (data: any): any => data;
+const getter = (data: any): any => data;
 
 
 // Дженерик типа для функции
-const getter = <T>(data: T): T => data;
+const getter1 = <T>(data: T): T => data;
 
 function getter2<T>(data: T): T {
     return data;
 }
 
-getter(10).length; // у числа нет метода 'length'
-getter('test').length; // 4
+getter1(10).length; // у числа нет метода 'length'
+getter1('test').length; // 4
 
 
 
 
 
-const getter = <T>(data: T): T => data;
+const getter3 = <T>(data: T): T => data;
 
 // можно указать какой аргумент будет принимать функция
 getter<number>(10).length; // Property 'length' does not exist on type '10'
@@ -111,7 +111,7 @@ const yauhen = new User('Yauhen', 31);
 const leo = new User(123, 321);
 
 /*
-  Error:
-  Argument of type '"20"' is not assignable to parameter of type 'number'
+    Error:
+    Argument of type '"20"' is not assignable to parameter of type 'number'
 */
 const max = new User('Max', '20');

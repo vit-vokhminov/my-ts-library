@@ -1,19 +1,41 @@
 import React, { FC, ReactNode } from 'react';
 
 
-
-interface IProps {
-    title: string;
-    test?: string;
+// легаси
+interface ITitleProps {
+    title?: string;
+    children: ReactNode;
 }
 
-export const App = (props: IProps) => {
-    const { title, test = 'test' } = props;
+export const App: FC<ITitleProps> = (props: ITitleProps) => {
+
+    const { title = 'test', children } = props;
 
     return (
         <h1>
             {title}
-            {test}
+            {children}
+        </h1>
+    );
+};
+// React.FC заставляет компонент неявно принимать дочерние элементы, даже если он не должн этого делать.
+// Если не передаются внешние свойства или children, то тип React.FC можно не указывать.
+
+
+
+
+interface IProps {
+    title?: string;
+    children: ReactNode;
+}
+
+export const App1 = (props: IProps) => {
+    const { title = 'test', children } = props;
+
+    return (
+        <h1>
+            {title}
+            {children}
         </h1>
     );
 };
@@ -22,15 +44,14 @@ export const App = (props: IProps) => {
 
 
 
-// легаси
-interface ITitleProps {
-    title: string;
-    children?: ReactNode;
-}
 
-export const Title: FC<ITitleProps> = (props: ITitleProps) => {
 
-    const { title, children } = props;
+
+
+
+
+
+export const App2 = ({ title = 'test', children }: IProps) => {
 
     return (
         <h1>
